@@ -9,9 +9,6 @@ class SqlTest:
 		"""Initialize object properties."""
 		# Fields
 		self._db_port = db_port
-
-
-
 		self._db_name = db_name
 		self._db_host = db_host
 		self._db_user_name = db_user_name
